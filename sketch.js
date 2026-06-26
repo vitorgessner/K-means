@@ -59,8 +59,8 @@ function draw() {
 }
 
 function createControlButtons() {
-  next = createButton("Next").position(1380, 460).style("padding", "6px");
-  restart = createButton("Restart").position(1430, 460).style("padding", "6px");
+  next = createButton("Next").position(5, 5).style("padding", "6px");
+  restart = createButton("Restart").position(55, 5).style("padding", "6px");
 }
 
 function finishUi() {

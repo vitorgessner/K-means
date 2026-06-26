@@ -1,5 +1,8 @@
 # k-means
 
+## Link
+https://vitorgessner.github.io/K-means/
+
 ## Getting Started
 
 Open `index.html` in your web browser and start editing `sketch.js`.
